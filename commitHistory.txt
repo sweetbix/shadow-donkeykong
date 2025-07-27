@@ -1,0 +1,21 @@
+9eed8d4 - Richard Guo,  : Added documentation to README. Ready to submit
+a46dd07 - Richard Guo,  : Added appendix to README, including assumptions and extra documentation about my implementation.
+9b3b8ef - Richard Guo,  : Added javadoc for all classes
+ec41f7a - Richard Guo,  : Shooting donkey kong will now subtract from its health, and can now win by shooting donkey 5 times (number of lives).
+e1ff345 - Richard Guo,  : Added ability for mario to shoot bullets with blaster. Added interaction between bullet connecting with monkeys BUT NOT DONKEY KONG.
+bb44a1f - Richard Guo,  : Changed banana into an abstract class 'projectile'. Created the class for bullet which is a subclass of projectile, as well as banana.
+a7e1c05 - Richard Guo,  : Added interation of mario destroying monkeys (with a hammer) and adding to the score
+3a902b4 - Richard Guo,  : Intelligent monkeys now shoot bananas. Added mario interation with bananas and monkeys (lose game upon contact)
+561bb8c - Richard Guo,  : Copied over logic from level 1 into level 2. Added mario interaction with blaster and hammer. However he can not shoot yet. Monkeys don't shoot yet either
+aa15f18 - Richard Guo,  : Monkeys can now walk their paths, with valid checks for screen edge and platform edge
+b7b621e - Richard Guo,  : Added opening falling animation to level 2
+e50faa8 - Richard Guo,  : Level 1 implemention completed (mostly copied from Project 1). Player will advance onto level 2 when level 1 is won.
+1766a85 - Richard Guo,  : Copying level 1 logic from my project 1. Added score system, interation with barrels and hammer, mario climbing.
+0fb15f8 - Richard Guo,  : Created fallable interface and added falling animation for fallable objects (level 1)
+3841d73 - Richard Guo,  : Added rendering of all game characters (mario, donkey kong, monkeys)
+6ea021f - Richard Guo,  : Added rendering of blasters and hammers in each level.
+fd4a590 - Richard Guo,  : Added rendering of background game objects (platforms, barrels, ladders) inside each level.
+f2dca3f - Richard Guo,  : Added all screens to main ShadowDonkeyClass and allowed for navigation between screens.
+9e17b64 - Richard Guo,  : Created classes for start and end screen, as well as for levels.
+7a47257 - Richard Guo,  : Created abstract parent classes - GameObject and Character.
+b5c2428 - Richard Guo,  : Initial commit. Copied in skeleton code and updated to new res folder
