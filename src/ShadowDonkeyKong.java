@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Properties;
 
 /**
+ * 
+ * PART OF SKELETON CODE PROVIDED BY SWEN20003 SUBJECT STAFF
+ * 
  * The main class for the Shadow Donkey Kong game.
  * This class extends {@code AbstractGame} and is responsible for managing game initialization,
  * updates, rendering, and handling user input.
@@ -69,6 +72,9 @@ public class ShadowDonkeyKong extends AbstractGame {
     private Donkey donkey2;
 
     /**
+     * PART OF SKELETON CODE PROVIDED BY SWEN20003 SUBJECT STAFF
+     * 
+     * 
      * Constructor for ShadowDonkeyKong game. All variables are initialised here, and arraylists are populated
      * using relevant static methods
      * @param gameProps The game properties file which information is read from
@@ -128,6 +134,9 @@ public class ShadowDonkeyKong extends AbstractGame {
 
 
     /**
+     * PART OF SKELETON CODE PROVIDED BY SWEN20003 SUBJECT STAFF
+     * 
+     * 
      * Render the relevant screen based on the keyboard input given by the user and the status of the gameplay.
      * @param input The current mouse/keyboard input.
      */
@@ -625,6 +634,8 @@ public class ShadowDonkeyKong extends AbstractGame {
     }
 
     /**
+     * PART OF SKELETON CODE PROVIDED BY SWEN20003 SUBJECT STAFF
+     * 
      * The main entry point of the Shadow Donkey Kong game.
      *
      * This method loads the game properties and message files, initializes the game,
