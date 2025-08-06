@@ -1,0 +1,40 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\richa\Downloads\shadow-donkeykong\DonkeyKong.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\richa\Downloads\shadow-donkeykong\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\msys64\mingw64\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\CMake\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\richa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Users\richa\AppData\Local\Programs\Python\Launcher\;C:\Users\richa\AppData\Local\Microsoft\WindowsApps;C:\Users\richa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\richa\AppData\Roaming\npm;C:\Users\richa\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\richa\.dotnet\tools;c:\users\richa\appdata\local\programs\python\python313\lib\site-packages;C:\Users\richa\AppData\Local\Programs\Python\Python313\Lib\site-packages\pip;C:\Users\richa\Downloads\apache-maven-3.9.11\bin;C:\Users\richa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin
+JRE paths:	;C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\msys64\mingw64\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\CMake\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\richa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Users\richa\AppData\Local\Programs\Python\Launcher\;C:\Users\richa\AppData\Local\Microsoft\WindowsApps;C:\Users\richa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\richa\AppData\Roaming\npm;C:\Users\richa\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\richa\.dotnet\tools;c:\users\richa\appdata\local\programs\python\python313\lib\site-packages;C:\Users\richa\AppData\Local\Programs\Python\Python313\Lib\site-packages\pip;C:\Users\richa\Downloads\apache-maven-3.9.11\bin;C:\Users\richa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin
+Check launcher:	C:\Program Files\Oculus\Support\oculus-runtime\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\msys64\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\CMake\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Users\richa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_016 / 64-Bit (OK)
+Main class:	ShadowDonkeyKong
+Add classpath:	C:\Users\richa\Downloads\shadow-donkeykong\target\DonkeyKong-1.0-SNAPSHOT.jar
+Launcher:	C:\Users\richa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\richa\Downloads\shadow-donkeykong\DonkeyKong.exe;C:\Users\richa\Downloads\shadow-donkeykong\target\DonkeyKong-1.0-SNAPSHOT.jar" ShadowDonkeyKong
+Args length:	165/32768 chars
+Exit code:	0
