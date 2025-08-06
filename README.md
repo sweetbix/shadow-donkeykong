@@ -3,10 +3,35 @@
 ## **📌 Overview**
 This document provides an overview of the **Shadow Donkey Kong game**
 
-This was a project for SWEN20006 Object Oriented Programming at The University of Melbourne. It uses Bagel (Basic Academic Graphical Engine Library), 
+This was a project for **SWEN20003 Object Oriented Software Development** at The University of Melbourne. It uses Bagel (Basic Academic Graphical Engine Library), 
 a custom graphics package for Java created by subject staff, and MAVEN for build management.
 
 ---
+
+## **🖥️ How to Run**
+
+### 1. Ensure **JDK 17** is installed on your system
+#### To check if JDK is installed:
+```bash
+java -version
+javac -version
+```
+
+#### Otherwise, install JDK 17 [here](https://adoptium.net/en-GB/temurin/releases/?version=17&os=any&arch=any)
+
+### 2. Clone the repo
+```bash
+git clone https://github.com/sweetbix/shadow-donkeykong.git
+```
+
+### 3. Run DonkeyKong.exe
+
+#### Click on *DonkeyKong.exe*
+#### or
+```bash
+cd shadow-donkeykong
+DonkeyKong.exe
+```
 
 ## **🎮 Shadow Donkey Kong Game Guide**
 Shadow Donkey Kong is a classic platformer where players control **Mario** to navigate obstacles, climb ladders, jump on platforms, and defeat Donkey Kong using a hammer. The game features:
@@ -15,14 +40,13 @@ Shadow Donkey Kong is a classic platformer where players control **Mario** to na
 - **Hammers**: Mario can pick up a hammer to defeat Donkey Kong.
 - **Time-based challenge**: The level must be completed within a time limit.
 
-### **🔹 How to Play**
-1. **Start the game**: Run the game (run **./src/ShadowDonkeyKong.java**) and begin on the home screen.
-2. **Move Mario**: Use the arrow keys to move left, right, and jump.
-3. **Climb ladders**: Approach a ladder and press the UP or DOWN key.
-4. **Use a hammer**: Pick up a hammer to defeat Donkey Kong.
-5. **Use a blaster**: Pick up a blaster and press 'S' to fire
-6. **Survive**: Avoid monkeys and bananas shot.
-7. **Win the level**: Reach Donkey Kong while holding a hammer before time runs out.
+## **🔹 How to Play**
+1. **Move Mario**: Use the arrow keys to move left, right, and jump.
+2. **Climb ladders**: Approach a ladder and press the UP or DOWN key.
+3. **Use a hammer**: Pick up a hammer to defeat Donkey Kong.
+4. **Use a blaster**: Pick up a blaster and press 'S' to fire
+5. **Survive**: Avoid monkeys and bananas shot.
+6. **Win the level**: Reach Donkey Kong while holding a hammer before time runs out.
 
 ---
 
